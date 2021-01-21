@@ -3,17 +3,8 @@
 ### Usage:
 
 #### Kali Linux
-
 ```
-$ git clone https://github.com/TH4WN3/openstego-0.7.4.git
-$ cd openstego-0.7.4
-$ chmod +x openstego.sh
-$ ./openstego.sh
-
-```
-#### Kali Linux
-```
-$ git clone https://github.com/TH4WN3/openstego-0.7.4.git
+$ git https://github.com/TH4WN3/openstego-0.8.0.git
 $ cd openstego-0.7.4
 $ chmod +x openstego.sh
 $ ./openstego.sh
@@ -25,6 +16,6 @@ $ ./openstego.sh
 Download zip
 Extract
 Run
-()
+(Java Request)
 
 ```
