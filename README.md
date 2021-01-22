@@ -15,7 +15,7 @@ $ ./openstego.sh
 ```
 Download zip
 Extract
-Run
+Run openstego.bat file
 (Java Request)
 
 ```
